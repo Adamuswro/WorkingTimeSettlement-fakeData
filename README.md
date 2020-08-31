@@ -10,10 +10,10 @@ Appication will ask you to select file with hourly report.
 In project folder "Inputfiles" you'll find examples of input files that program could read.
 
 Example of program result:
-![](https://github.com/Adamuswro/WorkingTimeSettlement/blob/master/WorkingTimeSettlement/WorkingTimeSettlement/ApplicationResult.png)
+![](https://github.com/Adamuswro/WorkingTimeSettlement-fakeData/blob/master/WorkingTimeSettlement/WorkingTimeSettlement/ApplicationResult.png)
 
 Example of input file:
-![](https://github.com/Adamuswro/WorkingTimeSettlement/blob/master/WorkingTimeSettlement/WorkingTimeSettlement/InputFile.png)
+![](https://github.com/Adamuswro/WorkingTimeSettlement-fakeData/blob/master/WorkingTimeSettlement/WorkingTimeSettlement/InputFile.png)
 
 ### Prerequisites
 
